@@ -1,6 +1,6 @@
 <div align="center">
 
-# INERATE
+<img src="https://raw.githubusercontent.com/INERATE/.github/main/profile/logo-dark.png" alt="INERATE" width="340" />
 
 ### Iterate until done.
 
