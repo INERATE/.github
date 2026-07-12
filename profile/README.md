@@ -56,17 +56,13 @@ if (done) return;
 
 <div align="center">
 
-**Contribution leaders**
+[![Contributors](https://img.shields.io/github/contributors/INERATE/atelier?style=flat-square&labelColor=0A0A0B&color=10B981&label=contributors)](https://github.com/INERATE/atelier/graphs/contributors)
+[![Commit activity](https://img.shields.io/github/commit-activity/m/INERATE/atelier?style=flat-square&labelColor=0A0A0B&color=9B9B98&label=commits%2Fmonth)](https://github.com/INERATE/atelier/graphs/commit-activity)
+[![Repo size](https://img.shields.io/github/repo-size/INERATE/atelier?style=flat-square&labelColor=0A0A0B&color=9B9B98&label=size)](https://github.com/INERATE/atelier)
 
-[![Contributors](https://contrib.rocks/image?repo=INERATE/atelier)](https://github.com/INERATE/atelier/graphs/contributors)
-
-**Star history**
-
-[![Star History](https://api.star-history.com/svg?repos=INERATE/atelier&type=Date)](https://github.com/INERATE/atelier/stargazers)
-
+[Contribution leaders](https://github.com/INERATE/atelier/graphs/contributors) ·
+[Star history](https://github.com/INERATE/atelier/stargazers) ·
 [Activity pulse](https://github.com/INERATE/atelier/pulse) ·
-[Contributor graphs](https://github.com/INERATE/atelier/graphs/contributors) ·
-[Commit traffic](https://github.com/INERATE/atelier/graphs/commit-activity) ·
 [Good first issues](https://github.com/INERATE/atelier/contribute)
 
 </div>
