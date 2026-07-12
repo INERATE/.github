@@ -9,12 +9,12 @@
 
 <br/>
 
-[![Stars](https://img.shields.io/github/stars/ScienHAC/atelier?style=flat-square&labelColor=0A0A0B&color=10B981&label=stars)](https://github.com/ScienHAC/atelier/stargazers)
-[![CI](https://img.shields.io/github/actions/workflow/status/ScienHAC/atelier/ci.yml?style=flat-square&labelColor=0A0A0B&color=10B981&label=ci)](https://github.com/ScienHAC/atelier/actions)
-[![Last commit](https://img.shields.io/github/last-commit/ScienHAC/atelier?style=flat-square&labelColor=0A0A0B&color=9B9B98&label=last%20commit)](https://github.com/ScienHAC/atelier/commits/main)
-[![Issues](https://img.shields.io/github/issues/ScienHAC/atelier?style=flat-square&labelColor=0A0A0B&color=9B9B98&label=issues)](https://github.com/ScienHAC/atelier/issues)
-[![PRs](https://img.shields.io/github/issues-pr/ScienHAC/atelier?style=flat-square&labelColor=0A0A0B&color=9B9B98&label=PRs)](https://github.com/ScienHAC/atelier/pulls)
-[![License](https://img.shields.io/github/license/ScienHAC/atelier?style=flat-square&labelColor=0A0A0B&color=9B9B98&label=license)](https://github.com/ScienHAC/atelier/blob/main/LICENSE)
+[![Stars](https://img.shields.io/github/stars/INERATE/atelier?style=flat-square&labelColor=0A0A0B&color=10B981&label=stars)](https://github.com/INERATE/atelier/stargazers)
+[![CI](https://img.shields.io/github/actions/workflow/status/INERATE/atelier/ci.yml?style=flat-square&labelColor=0A0A0B&color=10B981&label=ci)](https://github.com/INERATE/atelier/actions)
+[![Last commit](https://img.shields.io/github/last-commit/INERATE/atelier?style=flat-square&labelColor=0A0A0B&color=9B9B98&label=last%20commit)](https://github.com/INERATE/atelier/commits/main)
+[![Issues](https://img.shields.io/github/issues/INERATE/atelier?style=flat-square&labelColor=0A0A0B&color=9B9B98&label=issues)](https://github.com/INERATE/atelier/issues)
+[![PRs](https://img.shields.io/github/issues-pr/INERATE/atelier?style=flat-square&labelColor=0A0A0B&color=9B9B98&label=PRs)](https://github.com/INERATE/atelier/pulls)
+[![License](https://img.shields.io/github/license/INERATE/atelier?style=flat-square&labelColor=0A0A0B&color=9B9B98&label=license)](https://github.com/INERATE/atelier/blob/main/LICENSE)
 
 </div>
 
@@ -34,10 +34,10 @@ if (done) return;
 
 | Project | What it is |
 |---------|------------|
-| **[Atelier](https://github.com/ScienHAC/atelier)** | The craftsman's framework for AI-built software: loop engineering with base cases, enforced clean-code law, anti-AI-slop design law, automatic model routing, SQLite knowledge graph, self-learning overlays. One install. |
+| **[Atelier](https://github.com/INERATE/atelier)** | The craftsman's framework for AI-built software: loop engineering with base cases, enforced clean-code law, anti-AI-slop design law, automatic model routing, SQLite knowledge graph, self-learning overlays. One install. |
 
 ```
-/plugin marketplace add ScienHAC/atelier
+/plugin marketplace add INERATE/atelier
 /plugin install atelier
 /atelier:bootstrap
 ```
@@ -58,16 +58,16 @@ if (done) return;
 
 **Contribution leaders**
 
-[![Contributors](https://contrib.rocks/image?repo=ScienHAC/atelier)](https://github.com/ScienHAC/atelier/graphs/contributors)
+[![Contributors](https://contrib.rocks/image?repo=INERATE/atelier)](https://github.com/INERATE/atelier/graphs/contributors)
 
 **Star history**
 
-[![Star History](https://api.star-history.com/svg?repos=ScienHAC/atelier&type=Date)](https://github.com/ScienHAC/atelier/stargazers)
+[![Star History](https://api.star-history.com/svg?repos=INERATE/atelier&type=Date)](https://github.com/INERATE/atelier/stargazers)
 
-[Activity pulse](https://github.com/ScienHAC/atelier/pulse) ·
-[Contributor graphs](https://github.com/ScienHAC/atelier/graphs/contributors) ·
-[Commit traffic](https://github.com/ScienHAC/atelier/graphs/commit-activity) ·
-[Good first issues](https://github.com/ScienHAC/atelier/contribute)
+[Activity pulse](https://github.com/INERATE/atelier/pulse) ·
+[Contributor graphs](https://github.com/INERATE/atelier/graphs/contributors) ·
+[Commit traffic](https://github.com/INERATE/atelier/graphs/commit-activity) ·
+[Good first issues](https://github.com/INERATE/atelier/contribute)
 
 </div>
 
